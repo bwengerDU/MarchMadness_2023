@@ -5,3 +5,12 @@ I am building upon the 2022 project. In the 2022 project we discovered key succe
 In this project I am narrowing the scope of the project in order to predict the winning team. While the previous analysis will be used throughout the first two rounds, a new methodology to predict the winner will be used to identify teams that are likely to have Final Four success. 
 
 ## The images below showcase the previous analyses: 
+
+The below image shows how our previous prediction models performed against the competition: 
+
+![alt text](https://github.com/bwengerDU/MarchMadness_2023/blob/main/images/SuperGroup.png)
+
+The following image showcases how well our models performed amongst the various models used:
+
+![alt text](https://github.com/bwengerDU/MarchMadness_2023/blob/main/images/LogisticRegressionVRandomForest.png)
+
